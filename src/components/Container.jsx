@@ -9,7 +9,7 @@ const Container = () => {
             <h4>
                 @spikebrehm
             </h4>
-            <img className='img' src={airbnb}></img>
+            <img className='img' alt="airbnbimg" src={airbnb}></img>
         </div>
     );
 };
